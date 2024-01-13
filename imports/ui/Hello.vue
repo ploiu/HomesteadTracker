@@ -1,4 +1,4 @@
-<script setup>
+<!-- <script setup>
 import { ref } from 'vue'
 
 const count = ref(0)
@@ -13,4 +13,4 @@ function increment() {
   <p>
     You've pressed the button <strong>{{ count }}</strong> times.
   </p>
-</template>
+</template> -->
